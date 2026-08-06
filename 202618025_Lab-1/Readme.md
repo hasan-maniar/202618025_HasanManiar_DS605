@@ -1,8 +1,8 @@
 # DS605: Fundamentals of Machine Learning — Lab Assignment 1
 ## Data Scraping and Preprocessing using Python and Scrapy
 
-**Name:** [Your Name]
-**ID:** [Your ID]
+**Name:** Hasan Maniar
+**ID:** 202618025
 
 ## Project Overview
 This project scrapes book data from https://books.toscrape.com/ using Scrapy, 
