@@ -1,0 +1,5 @@
+Model,Train Accuracy,Test Accuracy,Precision,Recall,F1-score,Train-Test Gap
+LogReg + Pipeline A (Standard),0.8177,0.8215,0.8137,0.6723,0.7363,-0.0038
+LogReg + Pipeline B (MinMax),0.8134,0.8167,0.8099,0.6601,0.7274,-0.0032
+Tree + Pipeline A (Standard),0.9961,0.8609,0.8105,0.8152,0.8128,0.1353
+Tree + Pipeline B (MinMax),0.9961,0.8608,0.8103,0.8152,0.8127,0.1354
