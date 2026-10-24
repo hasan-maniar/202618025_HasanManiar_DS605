@@ -181,14 +181,6 @@ Start Jupyter with:
 jupyter notebook
 ```
 
-## Key Assignment Requirements
-
-- [x] Decision Tree implemented from scratch.
-- [x] Linear SVM implemented from scratch without Scikit-learn estimators.
-- [x] Two features used for 2D decision-boundary data preparation.
-- [x] All four features retained for final performance evaluation.
-- [x] Scikit-learn comparison models included.
-- [x] Model evaluation and visualization included.
 
 **Note:** The checklist reflects the intended notebook implementation. Confirm that the plotting cells actually train on the two-feature arrays and that the final evaluation cells use the four-feature arrays before submission.
 
